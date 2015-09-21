@@ -1,0 +1,19 @@
+{
+    "name": "nfl-player-stats",
+    "version": "0.0.1",
+    "title": "NFL Player Stats",
+    "description": "Create classes to store stats for each football position",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "JavaScript",
+        "NFL",
+        "constructors",
+        "stats"
+    ],
+    "supplementalFiles": [
+        "README.md"
+    ]
+}
